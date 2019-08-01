@@ -23,7 +23,8 @@ Apache，nginx,mysql,php,mongonDB,python,Ruby,Sphinx
 ##  三、Linux常用命令
 ####  1.命令基本格式
 
-[root@bigdata-senior01 ~]#
+**[root@bigdata-senior01 ~]#**
+
 其中：
 
       root： 当前登录用户
@@ -37,4 +38,18 @@ Apache，nginx,mysql,php,mongonDB,python,Ruby,Sphinx
                 普通用户的提示符是$
 
 
-命令格式
+**命令格式**
+
+**命令 [选项] [参数]**
+
+
+注意： 
+
+     个别命令使用不遵循此格式
+     
+     当有多个选项时，可以写在一起
+     
+     简化选项与完整选项
+        -a  等于 -all
+      
+      
