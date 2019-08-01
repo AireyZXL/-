@@ -14,8 +14,10 @@ Apache，nginx,mysql,php,mongonDB,python,Ruby,Sphinx
  4. Windows下的程序不能直接在Linux中安装和运行
 
 ####  5.字符界面的优势
+
 优势一： 字符界面占用的系统资源更少
-优势二：字符界面减少了出错、被攻击的可能性
+
+优势二： 字符界面减少了出错、被攻击的可能性
 
 ##  二、虚拟机的安装
 ##  三、Linux常用命令
@@ -23,11 +25,16 @@ Apache，nginx,mysql,php,mongonDB,python,Ruby,Sphinx
 
 [root@bigdata-senior01 ~]#
 其中：
+
       root： 当前登录用户
+      
       bigdata-senior01: 主机名
+      
       ~         当前所在目录（家目录）
+      
       #         超级用户的提示符
-                 普通用户的提示符是$
+      
+                普通用户的提示符是$
 
 
 命令格式
